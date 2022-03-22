@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "API-KEY"
+openai.api_key = "sk-ydML5IHXK9Tbn0oy0VAMT3BLbkFJe5V6Q4gyglcWheS6GfZv"
 
 conversation = "Human: Hola. como estas?\nAI: Estoy bien, vos como estas?"
 print(conversation)
