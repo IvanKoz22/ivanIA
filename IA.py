@@ -1,8 +1,8 @@
 import openai
 
+openai.api_key = "API-KEY"
 
-
-conversation = "Human: Hello, who are you?\nAI: I am an AI created by OpenAI. How can I help you today?"
+conversation = "Human: Hola. como estas?\nAI: Estoy bien, vos como estas?"
 print(conversation)
 
 i = 1
